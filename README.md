@@ -31,7 +31,7 @@ This policy is effective as of 1 January 2020.
   - remove any copyright or other proprietary notations from the materials; or
   - transfer the materials to another person or "mirror" the materials on any other server.
 
-  This license shall automatically terminate if you violate any of these restrictions and may be terminated by EEmoji Charades at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+  This license shall automatically terminate if you violate any of these restrictions and may be terminated by Emoji Charades at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
 
 3. Disclaimer
 
@@ -40,7 +40,7 @@ This policy is effective as of 1 January 2020.
 
 4. Limitations
 
-  In no event shall Emoji Charades or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Emoji Charades, even if EEmoji Charades or a Emoji Charades authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+  In no event shall Emoji Charades or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Emoji Charades, even if Emoji Charades or a Emoji Charades authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
 5. Accuracy of materials
 
