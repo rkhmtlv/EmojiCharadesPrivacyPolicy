@@ -1,10 +1,10 @@
-# EmojiPuzzlePrivacyPolicy
+# EmojiCharadesPrivacyPolicy
 Privacy Policy of the Emoji Puzzle - Logic Trivia App
 
 
 # Privacy Policy
 
-  Your privacy is important to us. It is Emoji Puzzle - Logic Trivia's policy to respect your privacy regarding any information we may collect from you through our app, Emoji Puzzle - Logic Trivia.
+  Your privacy is important to us. It is Emoji Charades's policy to respect your privacy regarding any information we may collect from you through our app, Emoji Charades.
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
 
@@ -16,43 +16,43 @@ You are free to refuse our request for your personal information, with the under
 This policy is effective as of 1 January 2020.
 
 
-# Emoji Puzzle - Logic Trivia Terms of Service
+# Emoji Charades Terms of Service
 
 1. Terms
 
-  By accessing our app, Emoji Puzzle - Logic Trivia, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing Emoji Puzzle - Logic Trivia. The materials contained in Emoji Puzzle - Logic Trivia are protected by applicable copyright and trademark law.
+  By accessing our app, Emoji Charades, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing Emoji Charades. The materials contained in Emoji Charades are protected by applicable copyright and trademark law.
   
 2. Use License
 
-  Permission is granted to temporarily download one copy of Emoji Puzzle - Logic Trivia per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+  Permission is granted to temporarily download one copy of Emoji Charades per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
   - modify or copy the materials;
   - use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
-  - attempt to decompile or reverse engineer any software contained in Emoji Puzzle - Logic Trivia;
+  - attempt to decompile or reverse engineer any software contained in Emoji Charades;
   - remove any copyright or other proprietary notations from the materials; or
   - transfer the materials to another person or "mirror" the materials on any other server.
 
-  This license shall automatically terminate if you violate any of these restrictions and may be terminated by Emoji Puzzle - Logic Trivia at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+  This license shall automatically terminate if you violate any of these restrictions and may be terminated by EEmoji Charades at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
 
 3. Disclaimer
 
-  The materials within Emoji Puzzle - Logic Trivia are provided on an 'as is' basis. Emoji Puzzle - Logic Trivia makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
-  Further, Emoji Puzzle - Logic Trivia does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to Emoji Puzzle - Logic Trivia.
+  The materials within Emoji Charades are provided on an 'as is' basis. Emoji Charades makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+  Further, Emoji Charades does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to Emoji Charades.
 
 4. Limitations
 
-  In no event shall Emoji Puzzle - Logic Trivia or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Emoji Puzzle - Logic Trivia, even if Emoji Puzzle - Logic Trivia or a Emoji Puzzle - Logic Trivia authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+  In no event shall Emoji Charades or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Emoji Charades, even if EEmoji Charades or a Emoji Charades authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
 5. Accuracy of materials
 
-  The materials appearing in Emoji Puzzle - Logic Trivia could include technical, typographical, or photographic errors. Emoji Puzzle - Logic Trivia does not warrant that any of the materials on Emoji Puzzle - Logic Trivia are accurate, complete or current. Emoji Puzzle - Logic Trivia may make changes to the materials contained in Emoji Puzzle - Logic Trivia at any time without notice. However Emoji Puzzle - Logic Trivia does not make any commitment to update the materials.
+  The materials appearing in Emoji Charades could include technical, typographical, or photographic errors. Emoji Charades does not warrant that any of the materials on Emoji Charades are accurate, complete or current. Emoji Charades may make changes to the materials contained in Emoji Charades at any time without notice. However Emoji Charades does not make any commitment to update the materials.
 
 6. Links
 
-  Emoji Puzzle - Logic Trivia has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Emoji Puzzle - Logic Trivia of the site. Use of any such linked website is at the user's own risk.
+  Emoji Charades has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Emoji Charades of the site. Use of any such linked website is at the user's own risk.
 
 7. Modifications
 
-  Emoji Puzzle - Logic Trivia may revise these terms of service for its app at any time without notice. By using Emoji Puzzle - Logic Trivia you are agreeing to be bound by the then current version of these terms of service.
+  Emoji Charades may revise these terms of service for its app at any time without notice. By using Emoji Charades you are agreeing to be bound by the then current version of these terms of service.
 
 8. Governing Law
 
