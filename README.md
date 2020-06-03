@@ -1,5 +1,5 @@
 # EmojiCharadesPrivacyPolicy
-Privacy Policy of the Emoji Puzzle - Logic Trivia App
+Privacy Policy of the Emoji Charades App
 
 
 # Privacy Policy
